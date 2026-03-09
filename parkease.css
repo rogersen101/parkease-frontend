@@ -1,0 +1,29 @@
+#sign-in {
+    width: 100px;
+    padding: 10px;
+    margin:5% 30% 2% 37%;    
+    background-color: #0D9488;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #0F766E;
+}
+
+.card {
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Style the header */
+header {
+    background-color: #6134ca;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}

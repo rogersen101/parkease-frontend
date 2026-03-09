@@ -1,0 +1,28 @@
+.login-body{
+    
+        justify-content: center; 
+        align-items: center; 
+        background: lightblue;
+        font-family: Arial;        
+        }     
+        
+        .login-card {   
+        width: 400px;
+        border-radius: 15px;   
+        margin: auto;
+        padding: 2rem;       
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        
+      }
+
+       .system-title { 
+        font-size: 30px;
+        font-weight: bold;
+        color: #1e90ff;
+      }
+      .card-footer {
+        background:#222;
+        text-align:center;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
